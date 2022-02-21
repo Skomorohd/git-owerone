@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-.trash
+.trash/
 lib/
 lib64/
 parts/
